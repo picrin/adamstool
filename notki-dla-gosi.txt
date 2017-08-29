@@ -1,0 +1,9 @@
+Galaxy tool
+0. VSCode
+0.5 download galaxy, set things up
+1. Bayesian mixture model.
+2. Define input = sys.argv[1], output = sys.argv[2]
+3. You have to write the xml file
+
+
+Te wszystki pliki powinny sie znalezc w /path/to/galaxy/tools/adam_k
